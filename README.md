@@ -1,4 +1,9 @@
-# Project
+M5 - A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks
+
+This repository contains the code for the M5 Benchmark paper.
+
+<img width="4812" height="1850" alt="image" src="https://github.com/user-attachments/assets/b95af158-a334-4b47-a156-53b714bce4d6" />
+
 
 ## Contributing
 
@@ -25,3 +30,21 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 ## Privacy
 
 You can read more about Microsoft's privacy statement [here](https://go.microsoft.com/fwlink/?LinkId=521839).
+
+## Citation
+
+If you use this code or the M5 Benchmark in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{
+    schneider2024m5benchmark,
+    title={M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks},
+    author={Schneider, Florian and Sitaram, Sunayana},
+    booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+    address={Miami, Florida, USA},
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.250",
+    pages={4309--4345},
+    year={2024}
+}
+```
