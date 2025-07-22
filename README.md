@@ -1,6 +1,6 @@
 M5 - A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks
 
-This repository contains the code for the M5 Benchmark paper.
+This repository contains the new datasets (M5-VGR and M5-VLOD) for the M5 Benchmark paper.
 
 <img width="4812" height="1850" alt="image" src="https://github.com/user-attachments/assets/b95af158-a334-4b47-a156-53b714bce4d6" />
 
